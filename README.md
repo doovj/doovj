@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @doovj
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Next.JS
-- 💞️ I’m looking to collaborate on creating web application
+- 👀 I’m interested in app development, AI, and cyber security
 - 📫 How to reach me { doovie7@gmail.com }
 
 <!---
